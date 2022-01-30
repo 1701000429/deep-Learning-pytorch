@@ -22,9 +22,7 @@
 
 1.Pytorch基础
 
-2.Pytorch搭建主流神经网络
-
-3.Pytorch其余知识点汇总（TODO）
+3.Pytorch进阶
 
 ## 目标检测
 
