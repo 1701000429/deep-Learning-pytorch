@@ -1,0 +1,26 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "points": [
+        [
+          116.85714285714286,
+          258.3174603174603
+        ],
+        [
+          592.2539682539682,
+          809.1111111111111
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "person1.jpg",
+  "imageData": null,
+  "imageHeight": 1106,
+  "imageWidth": 1292
+}

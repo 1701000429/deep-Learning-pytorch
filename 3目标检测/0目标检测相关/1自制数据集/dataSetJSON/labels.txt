@@ -1,0 +1,8 @@
+__ignore__
+_background_
+aeroplane
+bicycle
+dog
+cat
+bridge
+person

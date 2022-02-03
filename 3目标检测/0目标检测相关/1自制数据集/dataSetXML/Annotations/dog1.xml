@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>dog1.jpg</filename>
+	<path>D:\Study\研一人工智能学习\DeepLearning\3目标检测\0目标检测相关\1自制数据集\dataSet\image\dog1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>15</ymin>
+			<xmax>341</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
